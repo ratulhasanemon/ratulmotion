@@ -1,2 +1,2 @@
 # ratulmotion
-landing page
+This Is A Motion Designer portfolio Website
